@@ -2,6 +2,8 @@
 
 Convert youtube videos to gifs on the fly
 
+[![NPM](https://nodei.co/npm/youtube-giffify.png?compact=true)](https://npmjs.org/package/youtube-giffify)
+
 ---
 
 ### Usage
