@@ -1,0 +1,23 @@
+{
+  "compilerOptions": {
+    "target": "es5",
+    "moduleResolution": "node",
+    "module": "commonjs",
+    "declaration": true,
+    "noLib": false,
+    "emitDecoratorMetadata": true,
+    "experimentalDecorators": true,
+    "sourceMap": true,
+    "pretty": true,
+    "allowUnreachableCode": true,
+    "allowUnusedLabels": true,
+    "noImplicitAny": true,
+    "noImplicitReturns": false,
+    "noImplicitUseStrict": false,
+    "esModuleInterop": true,
+    "outDir": "lib/",
+    "listFiles": false
+  },
+  "exclude": ["node_modules", "src/**/*.test.ts", "src/**/*.d.ts"],
+  "compileOnSave": false
+}
